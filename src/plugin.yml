@@ -1,0 +1,8 @@
+name: FarmBot
+main: me.armorofglory.Main
+version: 1.0
+
+commands:
+  farm:
+    description: Base command for FarmBot Plugin
+    aliases: [f]

@@ -1,0 +1,12 @@
+###################################################
+#                                                 #
+#            PLUGIN MADE BY ARMOROFGLORY          #
+#                                                 #
+################# CONFIGURATIONFILE ###############
+
+# Farms
+Farms:
+  
+# Configure Additional Plugin Settings
+Messages:
+  PREFIX: "&6[&eFarmBot&6] &7"
